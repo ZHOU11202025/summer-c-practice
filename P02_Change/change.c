@@ -8,4 +8,5 @@ int main() {
 	scanf("%d", &price);
 	int change = 100 - price;
 	printf("»¹Ê£Óà£º%dÔª",change);
+	return 0;
 }
