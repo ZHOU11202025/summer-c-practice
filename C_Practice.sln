@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P01_HelloWorld", "P01_Hello
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P04_Height", "P04_Height\P04_Height.vcxproj", "{77219F03-EC71-43C4-8259-9A25748CDA8D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class_Practice", "Class_Practice", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Personal_Practice", "Personal_Practice", "{51C9A3B7-ED67-4CAF-BA2D-25D811A70921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -54,6 +58,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{34AA7E7D-DD03-4111-BEE1-544EE321A965} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F4CA210A-328D-4248-8953-6D4C9A026A4D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A31E5D8A-3FE7-4C18-94E4-25AE3DD4B55B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{77219F03-EC71-43C4-8259-9A25748CDA8D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E8385F3D-FC33-44EE-A3BA-F707004F13DE}
