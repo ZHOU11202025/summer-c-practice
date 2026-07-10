@@ -6,5 +6,5 @@ int main() {
 	int foot = 0;
 	int inch = 0;
 	scanf("%d %d", &foot, &inch);
-	printf("则身高是%f米\n",((foot + inch / 12) * 0.3048));
+	printf("则身高是%f米\n",((foot + inch / 12.0) * 0.3048));
 }
