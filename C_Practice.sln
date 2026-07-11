@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P01_CircleArea", "Personal_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P02_TwoNumberCalc", "Personal_Practice\P02_TwoNumberCalc\P02_TwoNumberCalc.vcxproj", "{5F6B0C74-9B39-4B27-8FD9-21D58A72D201}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P03_TimeCalc", "Personal_Practice\P03_TimeCalc\P03_TimeCalc.vcxproj", "{07CBB20F-2E84-4C85-ABF7-2D823B43F892}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -105,6 +107,14 @@ Global
 		{5F6B0C74-9B39-4B27-8FD9-21D58A72D201}.Release|x64.Build.0 = Release|x64
 		{5F6B0C74-9B39-4B27-8FD9-21D58A72D201}.Release|x86.ActiveCfg = Release|Win32
 		{5F6B0C74-9B39-4B27-8FD9-21D58A72D201}.Release|x86.Build.0 = Release|Win32
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892}.Debug|x64.ActiveCfg = Debug|x64
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892}.Debug|x64.Build.0 = Debug|x64
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892}.Debug|x86.ActiveCfg = Debug|Win32
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892}.Debug|x86.Build.0 = Debug|Win32
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892}.Release|x64.ActiveCfg = Release|x64
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892}.Release|x64.Build.0 = Release|x64
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892}.Release|x86.ActiveCfg = Release|Win32
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -119,6 +129,7 @@ Global
 		{13B55037-D322-4FF9-85BD-D6543F9C5B90} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{6312B883-7FC4-4BA1-B12E-53CE03A6EE12} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 		{5F6B0C74-9B39-4B27-8FD9-21D58A72D201} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
+		{07CBB20F-2E84-4C85-ABF7-2D823B43F892} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E8385F3D-FC33-44EE-A3BA-F707004F13DE}
