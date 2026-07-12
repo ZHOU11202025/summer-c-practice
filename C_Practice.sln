@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P03_TimeCalc", "Personal_Pr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P04_ReverseNumber", "Personal_Practice\P04_ReverseNumber\P04_ReverseNumber.vcxproj", "{49B8C167-4D20-4317-B88F-0B17C1DBE683}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P05_CmToFeetInch", "Personal_Practice\P05_CmToFeetInch\P05_CmToFeetInch.vcxproj", "{CA2E8BA2-C048-4160-B9AA-04ABF427689D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -125,6 +127,14 @@ Global
 		{49B8C167-4D20-4317-B88F-0B17C1DBE683}.Release|x64.Build.0 = Release|x64
 		{49B8C167-4D20-4317-B88F-0B17C1DBE683}.Release|x86.ActiveCfg = Release|Win32
 		{49B8C167-4D20-4317-B88F-0B17C1DBE683}.Release|x86.Build.0 = Release|Win32
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D}.Debug|x64.ActiveCfg = Debug|x64
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D}.Debug|x64.Build.0 = Debug|x64
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D}.Debug|x86.Build.0 = Debug|Win32
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D}.Release|x64.ActiveCfg = Release|x64
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D}.Release|x64.Build.0 = Release|x64
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D}.Release|x86.ActiveCfg = Release|Win32
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +151,7 @@ Global
 		{5F6B0C74-9B39-4B27-8FD9-21D58A72D201} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 		{07CBB20F-2E84-4C85-ABF7-2D823B43F892} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 		{49B8C167-4D20-4317-B88F-0B17C1DBE683} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
+		{CA2E8BA2-C048-4160-B9AA-04ABF427689D} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E8385F3D-FC33-44EE-A3BA-F707004F13DE}
