@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P14_MultiplicationTable", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P15_PrimeCountSum", "Personal_Practice\P15_PrimeCountSum\P15_PrimeCountSum.vcxproj", "{AC5B6E39-45BD-44BC-97D6-259686E531B0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P16_GuessNumberWithRules", "Personal_Practice\P16_GuessNumberWithRules\P16_GuessNumberWithRules.vcxproj", "{529226A6-4DFC-4F5C-8834-7D4CE66BE643}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -295,6 +297,14 @@ Global
 		{AC5B6E39-45BD-44BC-97D6-259686E531B0}.Release|x64.Build.0 = Release|x64
 		{AC5B6E39-45BD-44BC-97D6-259686E531B0}.Release|x86.ActiveCfg = Release|Win32
 		{AC5B6E39-45BD-44BC-97D6-259686E531B0}.Release|x86.Build.0 = Release|Win32
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643}.Debug|x64.ActiveCfg = Debug|x64
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643}.Debug|x64.Build.0 = Debug|x64
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643}.Debug|x86.ActiveCfg = Debug|Win32
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643}.Debug|x86.Build.0 = Debug|Win32
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643}.Release|x64.ActiveCfg = Release|x64
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643}.Release|x64.Build.0 = Release|x64
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643}.Release|x86.ActiveCfg = Release|Win32
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -328,6 +338,7 @@ Global
 		{1022657F-F2DE-4B5D-A460-BC0859C041F1} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 		{8FA0AE71-9E9F-4DB9-A0B0-D4EDE9AEB4D7} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 		{AC5B6E39-45BD-44BC-97D6-259686E531B0} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
+		{529226A6-4DFC-4F5C-8834-7D4CE66BE643} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E8385F3D-FC33-44EE-A3BA-F707004F13DE}
