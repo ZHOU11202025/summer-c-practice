@@ -69,6 +69,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P17_FractionSequenceSum", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P18_FractionReduction", "Personal_Practice\P18_FractionReduction\P18_FractionReduction.vcxproj", "{80480A7D-E9CC-4D59-AE3A-0C873E1B7990}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P14_SumRange", "Class_Practice\P14_SumRange\P14_SumRange.vcxproj", "{AA386754-82D9-48A0-BAF5-EEE868FBF234}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -325,6 +327,14 @@ Global
 		{80480A7D-E9CC-4D59-AE3A-0C873E1B7990}.Release|x64.Build.0 = Release|x64
 		{80480A7D-E9CC-4D59-AE3A-0C873E1B7990}.Release|x86.ActiveCfg = Release|Win32
 		{80480A7D-E9CC-4D59-AE3A-0C873E1B7990}.Release|x86.Build.0 = Release|Win32
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234}.Debug|x64.ActiveCfg = Debug|x64
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234}.Debug|x64.Build.0 = Debug|x64
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234}.Debug|x86.Build.0 = Debug|Win32
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234}.Release|x64.ActiveCfg = Release|x64
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234}.Release|x64.Build.0 = Release|x64
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234}.Release|x86.ActiveCfg = Release|Win32
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -361,6 +371,7 @@ Global
 		{529226A6-4DFC-4F5C-8834-7D4CE66BE643} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 		{A6DAD94F-90A0-4BB2-9877-94826A2EB117} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
 		{80480A7D-E9CC-4D59-AE3A-0C873E1B7990} = {51C9A3B7-ED67-4CAF-BA2D-25D811A70921}
+		{AA386754-82D9-48A0-BAF5-EEE868FBF234} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E8385F3D-FC33-44EE-A3BA-F707004F13DE}
